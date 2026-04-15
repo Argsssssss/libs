@@ -1,2 +1,1 @@
-# libs
-.h
+libs for c++(.h)
