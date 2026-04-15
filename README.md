@@ -1,1 +1,1 @@
-libs for c++(.h)
+statics libs for c++(.h)
